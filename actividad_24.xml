@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE articulos SYSTEM "articulos.dtd">
+<articulos>
+    <articulo>
+        <nombre>Ford Focus 2005</nombre>
+        <precio>18.560</precio>
+        <codigo>4925FSG</codigo>
+        <fabricante>Ford</fabricante>
+    </articulo>
+    <articulo>
+        <nombre>Renault Kangoo</nombre>
+        <precio>21.410</precio>
+        <codigo>2127SET</codigo>
+        <fabricante>Renault</fabricante>
+    </articulo>
+     <articulo>
+        <nombre>Alpha Romeo</nombre>
+        <precio>23.410</precio>
+        <codigo>1635GRZ</codigo>
+        <fabricante>Alpha Romeo/Ferrary</fabricante>
+    </articulo>
+    
+</articulos>
