@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE familia SYSTEM "articulos.dtd">
+<familia>
+    <madre>
+        <nombre>Rosa</nombre>
+        <apellido>Melano</apellido>
+        <apellido2>Mendez</apellido2>
+        <dni>74586128Z</dni>
+    </madre>
+    <padre>
+        <nombre>Pedro</nombre>
+        <apellido>Pica</apellido>
+        <apellido2>Piedra</apellido2>
+        <edad>30</edad>
+    </padre>
+    <hijos>
+        <hija>
+            <nombre>Maria</nombre>
+            <apellido>Pica</apellido>
+            <apellido2>Mendez</apellido2>
+            <dni>16953471T</dni>
+            <edad>30</edad>
+        </hija>
+    </hijos>
+</familia>
